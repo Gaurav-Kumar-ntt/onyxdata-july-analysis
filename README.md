@@ -14,6 +14,7 @@ This repository contains data preparation and analysis for the Onyx Data July Ch
 │   └── star_schema_final.csv          # Final joined star schema
 ├── july_challenge_data_prep.ipynb     # Data preparation notebook
 └── README.md                          # This file
+```
 
 ## Data Model
 
