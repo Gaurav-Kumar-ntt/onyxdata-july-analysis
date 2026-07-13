@@ -1,0 +1,12 @@
+# Allow CSV files
+!*.csv
+!data/*.csv
+
+# Allow Jupyter notebooks  
+!*.ipynb
+
+# Ignore Databricks internal folders
+.db_internal/
+.assistant/
+.conversations/
+Drafts/
