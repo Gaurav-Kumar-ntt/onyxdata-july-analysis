@@ -52,3 +52,7 @@ Open `july_challenge_data_prep.ipynb` in Databricks to run the data preparation 
 ## Author
 
 Gaurav Kumar
+
+
+Dashboard
+<img width="6000" height="6633" alt="AI Adoption-bilder-1" src="https://github.com/user-attachments/assets/59cad400-558b-4556-9a69-765151311fba" />
